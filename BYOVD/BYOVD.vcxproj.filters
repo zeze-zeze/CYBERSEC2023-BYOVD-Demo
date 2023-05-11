@@ -21,9 +21,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CheekyBlinder.cpp">
-      <Filter>來源檔案</Filter>
-    </ClCompile>
     <ClCompile Include="pe.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
@@ -35,6 +32,9 @@
     </ClCompile>
     <ClCompile Include="hde\hde64.c">
       <Filter>來源檔案\hde</Filter>
+    </ClCompile>
+    <ClCompile Include="BYOVD.cpp">
+      <Filter>來源檔案</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

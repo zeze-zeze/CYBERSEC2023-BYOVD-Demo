@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CheekyBlinder.cpp" />
+    <ClCompile Include="BYOVD.cpp" />
     <ClCompile Include="hde\hde64.c" />
     <ClCompile Include="pe.cpp" />
     <ClCompile Include="swind2.cpp" />
