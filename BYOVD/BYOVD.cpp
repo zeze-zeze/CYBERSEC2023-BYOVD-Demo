@@ -398,7 +398,7 @@ int main(int argc, char* argv[])
     const auto svcDesc = L"Micro-Star MSI Afterburner";
     const auto svcDesc2 = L"malicious";
     const wchar_t driverName[] = L"\\RTCore64.sys";
-    const wchar_t driverName2[] = L"\\malicious.sys";
+    const wchar_t driverName2[] = L"\\Malicious.sys";
     const auto pathSize = MAX_PATH + sizeof(driverName) / sizeof(wchar_t);
     const auto pathSize2 = MAX_PATH + sizeof(driverName2) / sizeof(wchar_t);
     TCHAR driverPath[pathSize];
