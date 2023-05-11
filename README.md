@@ -6,6 +6,7 @@ This demo is a presentation at the CYBERSEC 2023 in Taiwan. The presentation sho
 ## Info
 * Session: https://cyber.ithome.com.tw/2023/session-page/1799
 * Demo Video: https://www.youtube.com/watch?v=dLEHRmdY33c
+* Slide: https://docs.google.com/presentation/d/1LvCCWhXjn4JzTiZlDZer53h3u2pfhTILRCxNHTzFni4/edit?usp=sharing
 
 ## Environment
 * Windows 10 1909
