@@ -22,4 +22,4 @@ Note that since the DSE flag is not reset to the original value, and the callbac
 
 ## Reference
 * find DSE flag: https://github.com/hfiref0x/DSEFix
-* abusing RTCore64.sys (CVE-2019-16098) and null out notify callbacks: https://github.com/br-sn/CheekyBlinder
+* abuse RTCore64.sys (CVE-2019-16098) and null out notify callbacks: https://github.com/br-sn/CheekyBlinder
