@@ -17,6 +17,8 @@ This demo is a presentation at the CYBERSEC 2023 in Taiwan. The presentation sho
 2. Put BYOVD.exe, Malicious.sys, and RTCore64.sys to the same directory.
 3. Execute BYOVD.exe with Administrator, and 360 Total Security is expected to be killed.
 
+Note that since the DSE flag is not reset to the original value, and the callbacks is forcelly nullified, the system may not be stable.
+
 ## Reference
 * find DSE flag: https://github.com/hfiref0x/DSEFix
 * abusing RTCore64.sys (CVE-2019-16098) and null out notify callbacks: https://github.com/br-sn/CheekyBlinder
