@@ -4,9 +4,10 @@
 This demo is a presentation at the CYBERSEC 2023 in Taiwan. The presentation showcases the abuse of RTCore64.sys from MSI and the nullification of the DSE flag to load a malicious unsigned driver. The presentation also demonstrates an attack on 360 Total Security by nulling out its ObRegisterCallbacks and notify callbacks, enabling the execution of any malicious behavior on the processes of 360 Total Security.
 
 ## Info
+* Topic: Dive Into Kernel: Malware and Drivers in Collaboration
 * Session: https://cyber.ithome.com.tw/2023/session-page/1799
-* Demo Video: https://www.youtube.com/watch?v=dLEHRmdY33c
 * Slide: https://docs.google.com/presentation/d/1LvCCWhXjn4JzTiZlDZer53h3u2pfhTILRCxNHTzFni4/edit?usp=sharing
+* Demo Video: https://www.youtube.com/watch?v=dLEHRmdY33c
 
 ## Environment
 * Windows 10 1909
