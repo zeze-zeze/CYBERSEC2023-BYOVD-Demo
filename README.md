@@ -6,7 +6,7 @@ This demo is a presentation at the CYBERSEC 2023 in Taiwan. The presentation sho
 ## Info
 * Topic: Dive Into Kernel: Malware and Drivers in Collaboration
 * Session: https://cyber.ithome.com.tw/2023/session-page/1799
-* Slide: https://docs.google.com/presentation/d/1LvCCWhXjn4JzTiZlDZer53h3u2pfhTILRCxNHTzFni4/edit?usp=sharing
+* Slide: https://drive.google.com/file/d/1_FMVevsESPkAfI8uUgz3N4Yso4yjest9/view?usp=sharing
 * Demo Video: https://www.youtube.com/watch?v=dLEHRmdY33c
 
 ## Environment
