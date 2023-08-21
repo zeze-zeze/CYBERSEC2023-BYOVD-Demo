@@ -12,7 +12,7 @@ This demo is a presentation at the CYBERSEC 2023 in Taiwan. The presentation sho
 ## Environment
 * Windows 10 1909
 * Visual Studio 2017
-* 360 Total Security 10.8.0.1456
+* 360 Total Security 6.6.0.1060
 
 ## Usage
 1. Install 360 Total Security 10.8.0.1456
