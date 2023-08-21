@@ -15,7 +15,7 @@ This demo is a presentation at the CYBERSEC 2023 in Taiwan. The presentation sho
 * 360 Total Security 6.6.0.1060
 
 ## Usage
-1. Install 360 Total Security 10.8.0.1456
+1. Install 360 Total Security 6.6.0.1060
 2. Put BYOVD.exe, Malicious.sys, and RTCore64.sys to the same directory.
 3. Execute BYOVD.exe with Administrator, and 360 Total Security is expected to be killed.
 
