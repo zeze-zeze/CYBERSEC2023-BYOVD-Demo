@@ -1,7 +1,7 @@
 # CYBERSEC 2023 BYOVD Demo
 
 ## Description
-This demo is a presentation at the CYBERSEC 2023 in Taiwan. The presentation showcases the abuse of RTCore64.sys (CVE-2019-16098) from MSI and the nullification of the DSE flag to load a malicious unsigned driver. The presentation also demonstrates an attack on 360 Total Security by nulling out its ObRegisterCallbacks and notify callbacks, enabling the execution of any malicious behavior on the processes of 360 Total Security.
+This demo is a presentation at the CYBERSEC 2023 in Taiwan. The presentation showcases the abuse of RTCore64.sys (CVE-2019-16098) from MSI and the nullification of the DSE flag to load a malicious unsigned driver. The presentation also demonstrates an attack on 360 Total Security by nulling out its ObRegisterCallbacks, enabling the execution of any malicious behavior on the processes of 360 Total Security.
 
 ## Info
 * Topic: Dive Into Kernel: Malware and Drivers in Collaboration
